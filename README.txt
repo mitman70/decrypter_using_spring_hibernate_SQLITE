@@ -1,3 +1,6 @@
+ANSWER A Study in Scarlet by Sir Arthur Conan Doyle
+
+
 Introduction
 A company has decided to branch out from making highly secure e-books and move into the world of Accountancy, using their sophisticated book protection technology.
 We need to open up one of their "books" so that we're prepared for their accountancy application. Fortunately a bunch of talented hackers have documented how the format works:-
